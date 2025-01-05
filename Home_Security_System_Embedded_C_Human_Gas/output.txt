@@ -1,0 +1,4 @@
+
+Motion detected! Alert triggered.
+No motion or gas leakage detected.
+Gas leakage detected! Alert triggered.
